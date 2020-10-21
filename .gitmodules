@@ -23,8 +23,8 @@
 	branch = dev
 [submodule "rileylink_ios"]
 	path = rileylink_ios
-	url = https://github.com/itsmojo/rileylink_ios.git
-	branch = update-bundle
+	url = https://github.com/ps2/rileylink_ios.git
+	branch = dev
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
 	url = https://github.com/LoopKit/Amplitude-iOS.git
@@ -35,3 +35,6 @@
 [submodule "NightscoutAPIClient"]
 	path = NightscoutAPIClient
 	url = https://github.com/ivalkou/NightscoutAPIClient.git
+[submodule "bubble-client-swift"]
+	path = bubble-client-swift
+	url = https://github.com/bubbledevteam/bubble-client-swift
